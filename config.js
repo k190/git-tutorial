@@ -1,3 +1,3 @@
 console.log('config.js kale');
-console.log('version12');
+console.log('version41');
 console.log('bbc');
