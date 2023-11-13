@@ -1,2 +1,2 @@
-console.log('config.js kale');
-console.log('version4');
+console.log('config.js');
+console.log('version1');
